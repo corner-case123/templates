@@ -1,2 +1,3 @@
-my journey of compiling all data structure has begun
+//my journey of compiling all data structure has begun
 // range_based_query problems are solved in cses.fi
+// helper for cses.fi (range query) https://codeforces.com/blog/entry/128045
